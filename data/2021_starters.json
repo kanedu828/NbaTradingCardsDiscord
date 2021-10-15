@@ -1,0 +1,902 @@
+{
+  "Trae Young": {
+    "position": "PG",
+    "team": "hawks",
+    "collection": "2021 Starters",
+    "id": 0
+  },
+  "Bogdan Bogdanovic": {
+    "position": "SG",
+    "team": "hawks",
+    "collection": "2021 Starters",
+    "id": 1
+  },
+  "DeAndre Hunter": {
+    "position": "SF",
+    "team": "hawks",
+    "collection": "2021 Starters",
+    "id": 2
+  },
+  "John Collins": {
+    "position": "PF",
+    "team": "hawks",
+    "collection": "2021 Starters",
+    "id": 3
+  },
+  "Clint Capela": {
+    "position": "C",
+    "team": "hawks",
+    "collection": "2021 Starters",
+    "id": 4
+  },
+  "Marcus Smart": {
+    "position": "PG",
+    "team": "celtics",
+    "collection": "2021 Starters",
+    "id": 5
+  },
+  "Josh Richardson": {
+    "position": "SG",
+    "team": "celtics",
+    "collection": "2021 Starters",
+    "id": 6
+  },
+  "Jaylen Brown": {
+    "position": "SF",
+    "team": "celtics",
+    "collection": "2021 Starters",
+    "id": 7
+  },
+  "Jayson Tatum": {
+    "position": "PF",
+    "team": "celtics",
+    "collection": "2021 Starters",
+    "id": 8
+  },
+  "Robert Williams III": {
+    "position": "C",
+    "team": "celtics",
+    "collection": "2021 Starters",
+    "id": 9
+  },
+  "James Harden": {
+    "position": "PG",
+    "team": "nets",
+    "collection": "2021 Starters",
+    "id": 10
+  },
+  "Kyrie Irving": {
+    "position": "SG",
+    "team": "nets",
+    "collection": "2021 Starters",
+    "id": 11
+  },
+  "Joe Harris": {
+    "position": "SF",
+    "team": "nets",
+    "collection": "2021 Starters",
+    "id": 12
+  },
+  "Kevin Durant": {
+    "position": "PF",
+    "team": "nets",
+    "collection": "2021 Starters",
+    "id": 13
+  },
+  "Blake Griffin": {
+    "position": "C",
+    "team": "nets",
+    "collection": "2021 Starters",
+    "id": 14
+  },
+  "LaMelo Ball": {
+    "position": "PG",
+    "team": "hornets",
+    "collection": "2021 Starters",
+    "id": 15
+  },
+  "Terry Rozier": {
+    "position": "SG",
+    "team": "hornets",
+    "collection": "2021 Starters",
+    "id": 16
+  },
+  "Gordon Hayward": {
+    "position": "SF",
+    "team": "hornets",
+    "collection": "2021 Starters",
+    "id": 17
+  },
+  "PJ Washington": {
+    "position": "PF",
+    "team": "hornets",
+    "collection": "2021 Starters",
+    "id": 18
+  },
+  "Mason Plumlee": {
+    "position": "C",
+    "team": "hornets",
+    "collection": "2021 Starters",
+    "id": 19
+  },
+  "Lonzo Ball": {
+    "position": "PG",
+    "team": "bulls",
+    "collection": "2021 Starters",
+    "id": 20
+  },
+  "Zach LaVine": {
+    "position": "SG",
+    "team": "bulls",
+    "collection": "2021 Starters",
+    "id": 21
+  },
+  "Demar DeRozan": {
+    "position": "SF",
+    "team": "bulls",
+    "collection": "2021 Starters",
+    "id": 22
+  },
+  "Javonte Green": {
+    "position": "PF",
+    "team": "bulls",
+    "collection": "2021 Starters",
+    "id": 23
+  },
+  "Nikola Vucevic": {
+    "position": "C",
+    "team": "bulls",
+    "collection": "2021 Starters",
+    "id": 24
+  },
+  "Darius Garland": {
+    "position": "PG",
+    "team": "cavaliers",
+    "collection": "2021 Starters",
+    "id": 25
+  },
+  "Collin Sexton": {
+    "position": "SG",
+    "team": "cavaliers",
+    "collection": "2021 Starters",
+    "id": 26
+  },
+  "Isaac Okoro": {
+    "position": "SF",
+    "team": "cavaliers",
+    "collection": "2021 Starters",
+    "id": 27
+  },
+  "Kevin Love": {
+    "position": "PF",
+    "team": "cavaliers",
+    "collection": "2021 Starters",
+    "id": 28
+  },
+  "Evan Mobley": {
+    "position": "C",
+    "team": "cavaliers",
+    "collection": "2021 Starters",
+    "id": 29
+  },
+  "Luka Doncic": {
+    "position": "PG",
+    "team": "mavericks",
+    "collection": "2021 Starters",
+    "id": 30
+  },
+  "Tim Hardaway Jr": {
+    "position": "SG",
+    "team": "mavericks",
+    "collection": "2021 Starters",
+    "id": 31
+  },
+  "Dorian Finney-Smith": {
+    "position": "SF",
+    "team": "mavericks",
+    "collection": "2021 Starters",
+    "id": 32
+  },
+  "Kristaps Porzingis": {
+    "position": "PF",
+    "team": "mavericks",
+    "collection": "2021 Starters",
+    "id": 33
+  },
+  "Maxi Kleber": {
+    "position": "C",
+    "team": "mavericks",
+    "collection": "2021 Starters",
+    "id": 34
+  },
+  "Monte Morris": {
+    "position": "PG",
+    "team": "nuggets",
+    "collection": "2021 Starters",
+    "id": 35
+  },
+  "Will Barton": {
+    "position": "SG",
+    "team": "nuggets",
+    "collection": "2021 Starters",
+    "id": 36
+  },
+  "Michael Porter Jr": {
+    "position": "SF",
+    "team": "nuggets",
+    "collection": "2021 Starters",
+    "id": 37
+  },
+  "Aaron Gordon": {
+    "position": "PF",
+    "team": "nuggets",
+    "collection": "2021 Starters",
+    "id": 38
+  },
+  "Nikola Jokic": {
+    "position": "C",
+    "team": "nuggets",
+    "collection": "2021 Starters",
+    "id": 39
+  },
+  "Killian Hayes": {
+    "position": "PG",
+    "team": "pistons",
+    "collection": "2021 Starters",
+    "id": 40
+  },
+  "Cade Cunningham": {
+    "position": "SG",
+    "team": "pistons",
+    "collection": "2021 Starters",
+    "id": 41
+  },
+  "Saddiq Bey": {
+    "position": "SF",
+    "team": "pistons",
+    "collection": "2021 Starters",
+    "id": 42
+  },
+  "Jerami Grant": {
+    "position": "PF",
+    "team": "pistons",
+    "collection": "2021 Starters",
+    "id": 43
+  },
+  "Isaiah Stewart": {
+    "position": "C",
+    "team": "pistons",
+    "collection": "2021 Starters",
+    "id": 44
+  },
+  "Stephen Curry": {
+    "position": "PG",
+    "team": "warriors",
+    "collection": "2021 Starters",
+    "id": 45
+  },
+  "Jordan Poole": {
+    "position": "SG",
+    "team": "warriors",
+    "collection": "2021 Starters",
+    "id": 46
+  },
+  "Andrew Wiggins": {
+    "position": "SF",
+    "team": "warriors",
+    "collection": "2021 Starters",
+    "id": 47
+  },
+  "Draymond Green": {
+    "position": "PF",
+    "team": "warriors",
+    "collection": "2021 Starters",
+    "id": 48
+  },
+  "James Wiseman": {
+    "position": "C",
+    "team": "warriors",
+    "collection": "2021 Starters",
+    "id": 49
+  },
+  "Kevin Porter Jr": {
+    "position": "PG",
+    "team": "rockets",
+    "collection": "2021 Starters",
+    "id": 50
+  },
+  "Jalen Green": {
+    "position": "SG",
+    "team": "rockets",
+    "collection": "2021 Starters",
+    "id": 51
+  },
+  "Jae Sean Tate": {
+    "position": "SF",
+    "team": "rockets",
+    "collection": "2021 Starters",
+    "id": 52
+  },
+  "Daniel Theis": {
+    "position": "PF",
+    "team": "rockets",
+    "collection": "2021 Starters",
+    "id": 53
+  },
+  "Christian Wood": {
+    "position": "C",
+    "team": "rockets",
+    "collection": "2021 Starters",
+    "id": 54
+  },
+  "Malcom Brogdon": {
+    "position": "PG",
+    "team": "pacers",
+    "collection": "2021 Starters",
+    "id": 55
+  },
+  "Caris LeVert": {
+    "position": "SG",
+    "team": "pacers",
+    "collection": "2021 Starters",
+    "id": 56
+  },
+  "TJ Warren": {
+    "position": "SF",
+    "team": "pacers",
+    "collection": "2021 Starters",
+    "id": 57
+  },
+  "Domantas Sabonis": {
+    "position": "PF",
+    "team": "pacers",
+    "collection": "2021 Starters",
+    "id": 58
+  },
+  "Myles Turner": {
+    "position": "C",
+    "team": "pacers",
+    "collection": "2021 Starters",
+    "id": 59
+  },
+  "Reggie Jackson": {
+    "position": "PG",
+    "team": "clippers",
+    "collection": "2021 Starters",
+    "id": 60
+  },
+  "Paul George": {
+    "position": "SG",
+    "team": "clippers",
+    "collection": "2021 Starters",
+    "id": 61
+  },
+  "Nicolas Batum": {
+    "position": "SF",
+    "team": "clippers",
+    "collection": "2021 Starters",
+    "id": 62
+  },
+  "Marcus Morris": {
+    "position": "PF",
+    "team": "clippers",
+    "collection": "2021 Starters",
+    "id": 63
+  },
+  "Ivica Zubac": {
+    "position": "C",
+    "team": "clippers",
+    "collection": "2021 Starters",
+    "id": 64
+  },
+  "Russell Westbrook": {
+    "position": "PG",
+    "team": "lakers",
+    "collection": "2021 Starters",
+    "id": 65
+  },
+  "Wayne Ellington": {
+    "position": "SG",
+    "team": "lakers",
+    "collection": "2021 Starters",
+    "id": 66
+  },
+  "Lebron James": {
+    "position": "SF",
+    "team": "lakers",
+    "collection": "2021 Starters",
+    "id": 67
+  },
+  "Anthony Davis": {
+    "position": "PF",
+    "team": "lakers",
+    "collection": "2021 Starters",
+    "id": 68
+  },
+  "Marc Gasol": {
+    "position": "C",
+    "team": "lakers",
+    "collection": "2021 Starters",
+    "id": 69
+  },
+  "Ja Morant": {
+    "position": "PG",
+    "team": "grizzlies",
+    "collection": "2021 Starters",
+    "id": 70
+  },
+  "Dillon Brooks": {
+    "position": "SG",
+    "team": "grizzlies",
+    "collection": "2021 Starters",
+    "id": 71
+  },
+  "Kyle Anderson": {
+    "position": "SF",
+    "team": "grizzlies",
+    "collection": "2021 Starters",
+    "id": 72
+  },
+  "Jaren Jackson Jr": {
+    "position": "PF",
+    "team": "grizzlies",
+    "collection": "2021 Starters",
+    "id": 73
+  },
+  "Steven Adams": {
+    "position": "C",
+    "team": "grizzlies",
+    "collection": "2021 Starters",
+    "id": 74
+  },
+  "Kyle Lowry": {
+    "position": "PG",
+    "team": "heat",
+    "collection": "2021 Starters",
+    "id": 75
+  },
+  "Duncan Robinson": {
+    "position": "SG",
+    "team": "heat",
+    "collection": "2021 Starters",
+    "id": 76
+  },
+  "Jimmy Butler": {
+    "position": "SF",
+    "team": "heat",
+    "collection": "2021 Starters",
+    "id": 77
+  },
+  "PJ Tucker": {
+    "position": "PF",
+    "team": "heat",
+    "collection": "2021 Starters",
+    "id": 78
+  },
+  "Bam Adebayo": {
+    "position": "C",
+    "team": "heat",
+    "collection": "2021 Starters",
+    "id": 79
+  },
+  "Jrue Holiday": {
+    "position": "PG",
+    "team": "bucks",
+    "collection": "2021 Starters",
+    "id": 80
+  },
+  "Grayson Allen": {
+    "position": "SG",
+    "team": "bucks",
+    "collection": "2021 Starters",
+    "id": 81
+  },
+  "Khris Middleton": {
+    "position": "SF",
+    "team": "bucks",
+    "collection": "2021 Starters",
+    "id": 82
+  },
+  "Giannis Antetokounmpo": {
+    "position": "PF",
+    "team": "bucks",
+    "collection": "2021 Starters",
+    "id": 83
+  },
+  "Brook Lopez": {
+    "position": "C",
+    "team": "bucks",
+    "collection": "2021 Starters",
+    "id": 84
+  },
+  "D'Angelo Russell": {
+    "position": "PG",
+    "team": "timberwolves",
+    "collection": "2021 Starters",
+    "id": 85
+  },
+  "Anthony Edwards": {
+    "position": "SG",
+    "team": "timberwolves",
+    "collection": "2021 Starters",
+    "id": 86
+  },
+  "Malik Beasley": {
+    "position": "SF",
+    "team": "timberwolves",
+    "collection": "2021 Starters",
+    "id": 87
+  },
+  "Jaden McDaniels": {
+    "position": "PF",
+    "team": "timberwolves",
+    "collection": "2021 Starters",
+    "id": 88
+  },
+  "Karl-Anthony Towns": {
+    "position": "C",
+    "team": "timberwolves",
+    "collection": "2021 Starters",
+    "id": 89
+  },
+  "Devonte' Graham": {
+    "position": "PG",
+    "team": "pelicans",
+    "collection": "2021 Starters",
+    "id": 90
+  },
+  "Nickeil Alexander-Walker": {
+    "position": "SG",
+    "team": "pelicans",
+    "collection": "2021 Starters",
+    "id": 91
+  },
+  "Brandon Ingram": {
+    "position": "SF",
+    "team": "pelicans",
+    "collection": "2021 Starters",
+    "id": 92
+  },
+  "Zion Williamson": {
+    "position": "PF",
+    "team": "pelicans",
+    "collection": "2021 Starters",
+    "id": 93
+  },
+  "Jonas Valanciunuas": {
+    "position": "C",
+    "team": "pelicans",
+    "collection": "2021 Starters",
+    "id": 94
+  },
+  "Kemba Walker": {
+    "position": "PG",
+    "team": "knicks",
+    "collection": "2021 Starters",
+    "id": 95
+  },
+  "Evan Fournier": {
+    "position": "SG",
+    "team": "knicks",
+    "collection": "2021 Starters",
+    "id": 96
+  },
+  "RJ Barrett": {
+    "position": "SF",
+    "team": "knicks",
+    "collection": "2021 Starters",
+    "id": 97
+  },
+  "Julius Randle": {
+    "position": "PF",
+    "team": "knicks",
+    "collection": "2021 Starters",
+    "id": 98
+  },
+  "Mitchell Robinson": {
+    "position": "C",
+    "team": "knicks",
+    "collection": "2021 Starters",
+    "id": 99
+  },
+  "Shai Gilgeous-Alexander": {
+    "position": "PG",
+    "team": "thunder",
+    "collection": "2021 Starters",
+    "id": 100
+  },
+  "Josh Giddey": {
+    "position": "SG",
+    "team": "thunder",
+    "collection": "2021 Starters",
+    "id": 101
+  },
+  "Luguentz Dort": {
+    "position": "SF",
+    "team": "thunder",
+    "collection": "2021 Starters",
+    "id": 102
+  },
+  "Darius Bazley": {
+    "position": "PF",
+    "team": "thunder",
+    "collection": "2021 Starters",
+    "id": 103
+  },
+  "Derrick Favors": {
+    "position": "C",
+    "team": "thunder",
+    "collection": "2021 Starters",
+    "id": 104
+  },
+  "Cole Anthony": {
+    "position": "PG",
+    "team": "magic",
+    "collection": "2021 Starters",
+    "id": 105
+  },
+  "Gary Harris": {
+    "position": "SG",
+    "team": "magic",
+    "collection": "2021 Starters",
+    "id": 106
+  },
+  "Terrence Ross": {
+    "position": "SF",
+    "team": "magic",
+    "collection": "2021 Starters",
+    "id": 107
+  },
+  "James Ennis": {
+    "position": "PF",
+    "team": "magic",
+    "collection": "2021 Starters",
+    "id": 108
+  },
+  "Wendell Carter Jr": {
+    "position": "C",
+    "team": "magic",
+    "collection": "2021 Starters",
+    "id": 109
+  },
+  "Ben Simmons": {
+    "position": "PG",
+    "team": "76ers",
+    "collection": "2021 Starters",
+    "id": 110
+  },
+  "Seth Curry": {
+    "position": "SG",
+    "team": "76ers",
+    "collection": "2021 Starters",
+    "id": 111
+  },
+  "Danny Green": {
+    "position": "SF",
+    "team": "76ers",
+    "collection": "2021 Starters",
+    "id": 112
+  },
+  "Tobias Harris": {
+    "position": "PF",
+    "team": "76ers",
+    "collection": "2021 Starters",
+    "id": 113
+  },
+  "Joel Embiid": {
+    "position": "C",
+    "team": "76ers",
+    "collection": "2021 Starters",
+    "id": 114
+  },
+  "Chris Paul": {
+    "position": "PG",
+    "team": "suns",
+    "collection": "2021 Starters",
+    "id": 115
+  },
+  "Devin Booker": {
+    "position": "SG",
+    "team": "suns",
+    "collection": "2021 Starters",
+    "id": 116
+  },
+  "Mikal Bridges": {
+    "position": "SF",
+    "team": "suns",
+    "collection": "2021 Starters",
+    "id": 117
+  },
+  "Jae Crowder": {
+    "position": "PF",
+    "team": "suns",
+    "collection": "2021 Starters",
+    "id": 118
+  },
+  "Deandre Ayton": {
+    "position": "C",
+    "team": "suns",
+    "collection": "2021 Starters",
+    "id": 119
+  },
+  "Damian Lillard": {
+    "position": "PG",
+    "team": "blazers",
+    "collection": "2021 Starters",
+    "id": 120
+  },
+  "CJ McCollum": {
+    "position": "SG",
+    "team": "blazers",
+    "collection": "2021 Starters",
+    "id": 121
+  },
+  "Norman Powell": {
+    "position": "SF",
+    "team": "blazers",
+    "collection": "2021 Starters",
+    "id": 122
+  },
+  "Robert Covington": {
+    "position": "PF",
+    "team": "blazers",
+    "collection": "2021 Starters",
+    "id": 123
+  },
+  "Jusuf Nurkic": {
+    "position": "C",
+    "team": "blazers",
+    "collection": "2021 Starters",
+    "id": 124
+  },
+  "DeAaron Fox": {
+    "position": "PG",
+    "team": "kings",
+    "collection": "2021 Starters",
+    "id": 125
+  },
+  "Buddy Hield": {
+    "position": "SG",
+    "team": "kings",
+    "collection": "2021 Starters",
+    "id": 126
+  },
+  "Harrison Barnes": {
+    "position": "SF",
+    "team": "kings",
+    "collection": "2021 Starters",
+    "id": 127
+  },
+  "Marvin Bagley III": {
+    "position": "PF",
+    "team": "kings",
+    "collection": "2021 Starters",
+    "id": 128
+  },
+  "Richaun Holmes": {
+    "position": "C",
+    "team": "kings",
+    "collection": "2021 Starters",
+    "id": 129
+  },
+  "Dejounte Murray": {
+    "position": "PG",
+    "team": "spurs",
+    "collection": "2021 Starters",
+    "id": 130
+  },
+  "Derrick White": {
+    "position": "SG",
+    "team": "spurs",
+    "collection": "2021 Starters",
+    "id": 131
+  },
+  "Keldon Johnson": {
+    "position": "SF",
+    "team": "spurs",
+    "collection": "2021 Starters",
+    "id": 132
+  },
+  "Thaddeus Young": {
+    "position": "PF",
+    "team": "spurs",
+    "collection": "2021 Starters",
+    "id": 133
+  },
+  "Jakob Poltl": {
+    "position": "C",
+    "team": "spurs",
+    "collection": "2021 Starters",
+    "id": 134
+  },
+  "Fred VanVleet": {
+    "position": "PG",
+    "team": "raptors",
+    "collection": "2021 Starters",
+    "id": 135
+  },
+  "Gary Trent Jr": {
+    "position": "SG",
+    "team": "raptors",
+    "collection": "2021 Starters",
+    "id": 136
+  },
+  "OG Anunoby": {
+    "position": "SF",
+    "team": "raptors",
+    "collection": "2021 Starters",
+    "id": 137
+  },
+  "Pascal Siakam": {
+    "position": "PF",
+    "team": "raptors",
+    "collection": "2021 Starters",
+    "id": 138
+  },
+  "Khem Birch": {
+    "position": "C",
+    "team": "raptors",
+    "collection": "2021 Starters",
+    "id": 139
+  },
+  "Mike Conley": {
+    "position": "PG",
+    "team": "jazz",
+    "collection": "2021 Starters",
+    "id": 140
+  },
+  "Donovan Mitchell": {
+    "position": "SG",
+    "team": "jazz",
+    "collection": "2021 Starters",
+    "id": 141
+  },
+  "Bojan Bogdanovic": {
+    "position": "SF",
+    "team": "jazz",
+    "collection": "2021 Starters",
+    "id": 142
+  },
+  "Royce ONeale": {
+    "position": "PF",
+    "team": "jazz",
+    "collection": "2021 Starters",
+    "id": 143
+  },
+  "Rudy Gobert": {
+    "position": "C",
+    "team": "jazz",
+    "collection": "2021 Starters",
+    "id": 144
+  },
+  "Spencer Dinwiddie": {
+    "position": "PG",
+    "team": "wizards",
+    "collection": "2021 Starters",
+    "id": 145
+  },
+  "Bradley Beal": {
+    "position": "SG",
+    "team": "wizards",
+    "collection": "2021 Starters",
+    "id": 146
+  },
+  "Kyle Kuzma": {
+    "position": "SF",
+    "team": "wizards",
+    "collection": "2021 Starters",
+    "id": 147
+  },
+  "Rui Hachimura": {
+    "position": "PF",
+    "team": "wizards",
+    "collection": "2021 Starters",
+    "id": 148
+  },
+  "Thomas Bryant": {
+    "position": "C",
+    "team": "wizards",
+    "collection": "2021 Starters",
+    "id": 149
+  }
+}
